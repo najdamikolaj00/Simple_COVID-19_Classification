@@ -8,7 +8,7 @@
 <h3>To do list:</h3>
 <ul>
     <li>Developing the ANN.</li>
-    <li>Code optimization.</li>
+    <li>Code optimalization.</li>
 </ul>
 <h3>References:</h3>
 <ul>
