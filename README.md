@@ -1,4 +1,4 @@
-<h2>University project - COVID-19 Classification based on MRI images</h2>
+<h2>University project - COVID-19 Classification based on CT images</h2>
 <h4>The main goal of this project is to create the simple tool for pathological lungs changes classification caused by virus SARS-CoV-2.</h4>
 <h3>Tools, languages:</h3>
 <ul>
